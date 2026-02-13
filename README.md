@@ -44,12 +44,12 @@ Hi, my name is Mateus, and I'm currently studying Computer Engineering. My prima
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/WMateusNavarro77eb/CSS)
 
 
-# 📊 GitHub Stats:
+<!--# 📊 GitHub Stats:-->
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=GreatApe77&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GreatApe77&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=MateusNavarro77&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusNavarro77&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

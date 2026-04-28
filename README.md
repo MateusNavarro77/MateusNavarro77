@@ -1,18 +1,18 @@
 # About Me:
 Hi, my name is Mateus, and I'm currently studying Computer Engineering. My primary area of interest is mobile development, where I focus on building cross-platform applications with Flutter. Additionally, I have experience in web development, working with TypeScript, Node.js, and its ecosystem, as well as in smart contract development using Solidity.
-
+<!--
 ### Tools I Have Worked With Professionally
 - **Languages:** Solidity, TypeScript, JavaScript, Dart
 - **Blockchain:** Ethereum, Polygon, Hardhat, Truffle, EVM, ethersJs, web3Js, viem, remix IDE, Metamask, OpenZeppelin
 - **Version Control:** Git, GitHub
-
+-->
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22862117) 
 [![Beecrowd](https://img.shields.io/badge/Beecrowd-ffdb72)](https://judge.beecrowd.com/pt/profile/619645)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-navarro-910673298/)
 
 
-
+<!--
 # 💻 Tech Stack:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
@@ -44,7 +44,7 @@ Hi, my name is Mateus, and I'm currently studying Computer Engineering. My prima
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/WMateusNavarro77eb/CSS)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/WMateusNavarro77eb/CSS)-->
 
 
 <!--# 📊 GitHub Stats:-->

@@ -1,4 +1,4 @@
-# About Me:
+# About Me
 Hi, my name is Mateus, and I'm currently studying Computer Engineering. My primary area of interest is mobile development, where I focus on building cross-platform applications with Flutter. Additionally, I have experience in web development, working with TypeScript, Node.js, and its ecosystem, as well as in smart contract development using Solidity.
 <!--
 ### Tools I Have Worked With Professionally
@@ -6,7 +6,7 @@ Hi, my name is Mateus, and I'm currently studying Computer Engineering. My prima
 - **Blockchain:** Ethereum, Polygon, Hardhat, Truffle, EVM, ethersJs, web3Js, viem, remix IDE, Metamask, OpenZeppelin
 - **Version Control:** Git, GitHub
 -->
-## 🌐 Socials:
+## 🌐 Socials
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22862117) 
 [![Beecrowd](https://img.shields.io/badge/Beecrowd-ffdb72)](https://judge.beecrowd.com/pt/profile/619645)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-navarro-910673298/)

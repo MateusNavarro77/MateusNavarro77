@@ -7,6 +7,9 @@ Hi, my name is Mateus, and I'm currently studying Computer Engineering. My prima
 - **Version Control:** Git, GitHub
 -->
 ## 🌐 Socials
+
+My Resume: [PT-BR](https://github.com/MateusNavarro77/curriculum/releases/download/latest/Mateus_Navarro_CV_PT.pdf)
+
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22862117) 
 [![Beecrowd](https://img.shields.io/badge/Beecrowd-ffdb72)](https://judge.beecrowd.com/pt/profile/619645)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-navarro-910673298/)

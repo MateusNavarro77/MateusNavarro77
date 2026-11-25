@@ -6,7 +6,7 @@ Hi, my name is Mateus, and I'm currently studying Computer Engineering. My prima
 - **Blockchain:** Ethereum, Polygon, Hardhat, Truffle, EVM, ethersJs, web3Js, viem, remix IDE, Metamask, OpenZeppelin
 - **Version Control:** Git, GitHub
 -->
-## 🌐 Socials
+## Socials
 
 My Resume: [PT-BR](https://github.com/MateusNavarro77/curriculum/releases/download/latest/Mateus_Navarro_CV_PT.pdf)
 
@@ -50,9 +50,18 @@ My Resume: [PT-BR](https://github.com/MateusNavarro77/curriculum/releases/downlo
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/WMateusNavarro77eb/CSS)-->
 
 
+
+
 <!--# 📊 GitHub Stats:-->
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=MateusNavarro77&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusNavarro77&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## Stats
+
+[![Career trail](https://github-timeline.frangolab.com/embed/MateusNavarro77/trilha.svg?paleta=verde&data=1&lang=en)](https://github-timeline.frangolab.com/u/MateusNavarro77?lang=en)
+
+[![Language river](https://github-timeline.frangolab.com/embed/MateusNavarro77/linguagens.svg?data=1&lang=en)](https://github-timeline.frangolab.com/u/MateusNavarro77?lang=en)
+
